@@ -1,0 +1,11 @@
+[
+  { "key": "problem_solving", "question": "Do you enjoy solving real-world problems with logic?" },
+  { "key": "working_with_tech", "question": "Are you curious about how software or technology works?" },
+  { "key": "people_focus", "question": "Do you enjoy helping or understanding people?" },
+  { "key": "visual_creativity", "question": "Do you like designing visuals or user experiences?" },
+  { "key": "numbers_data", "question": "Are you comfortable analyzing numbers or data?" },
+  { "key": "leading_projects", "question": "Do you enjoy planning and leading group tasks or events?" },
+  { "key": "building_things", "question": "Do you enjoy building or fixing things (hardware, software, etc.)?" },
+  { "key": "writing_communication", "question": "Do you enjoy writing, storytelling, or creating content?" },
+  { "key": "future_learning", "question": "Are you open to learning difficult skills like coding, AI, or math?" }
+]
